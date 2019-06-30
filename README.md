@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is a project build a personal blog
 
 ## What it does
 
-FEATURES PLACEHOLDER
+List Features:
+
+1. Write post
+2. Pushlish post
+3. Share post
 
 ## Getting started
 
