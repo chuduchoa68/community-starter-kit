@@ -41,11 +41,9 @@ Welcome to our repository! Thanks for adding an issue, if you are reporting a bu
 
 Installation instructions
 
-- Vui vẻ
-- Thưởng thức nó
-- Sao thế nhỉ?
-- Hahaha
-- Hihihi
+- Installation instructions
+- Completing essential tasks
+- Customizing and configuring
 
 Completing essential tasks
 
