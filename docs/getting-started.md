@@ -37,4 +37,7 @@ firstPRMergeComment: >
 
 CONFIGS PLACEHOLDER
 
-CHÀO MỪNG BẠN ĐẾN VỚI DỰ ÁN 
+CHÀO MỪNG BẠN ĐẾN VỚI DỰ ÁN
+
+- Vui vẻ
+- Thưởng thức nó
