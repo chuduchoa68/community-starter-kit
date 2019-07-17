@@ -42,6 +42,8 @@ Installation instructions
 - Vui vẻ
 - Thưởng thức nó
 - Sao thế nhỉ?
+- Hahaha
+- Hihihi
 
 Completing essential tasks
 
