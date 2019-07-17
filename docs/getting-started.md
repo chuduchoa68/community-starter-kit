@@ -36,3 +36,5 @@ firstPRMergeComment: >
 ### Example Messages
 
 CONFIGS PLACEHOLDER
+
+CHÀO MỪNG BẠN ĐẾN VỚI DỰ ÁN 
