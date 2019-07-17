@@ -37,14 +37,4 @@ firstPRMergeComment: >
 
 CONFIGS PLACEHOLDER
 
-* Welcome to our repository! Thanks for adding an issue, if you are reporting a bug or a feature request, please make sure to assign a label to this issue.
-
-Installation instructions
-
-* Nguyen Minh Duc
-* Pham Duc Vinh
-* Ta Quang Duc
-
-Completing essential tasks
-
-Customizing and configuring
+Hi {name}! Welcome to push issues
