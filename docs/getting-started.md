@@ -37,8 +37,12 @@ firstPRMergeComment: >
 
 CONFIGS PLACEHOLDER
 
-CHÀO MỪNG BẠN ĐẾN VỚI DỰ ÁN
+Installation instructions
 
 - Vui vẻ
 - Thưởng thức nó
 - Sao thế nhỉ?
+
+Completing essential tasks
+
+Customizing and configuring
