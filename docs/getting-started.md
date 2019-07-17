@@ -35,6 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
-
 Hi {name}! Welcome to push issues
