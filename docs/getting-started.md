@@ -41,9 +41,9 @@ Welcome to our repository! Thanks for adding an issue, if you are reporting a bu
 
 Installation instructions
 
-- Installation instructions
-- Completing essential tasks
-- Customizing and configuring
+* Installation instructions
+* Completing essential tasks
+* Customizing and configuring
 
 Completing essential tasks
 
